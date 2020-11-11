@@ -18,13 +18,13 @@ python RGBA2RGB.py
 python WGAN.py
 ``` 
 
+## example bag after 50 epochs
+
+![image2](epoch50.jpg)
+
 ## example bag after 1000 epochs
 
 ![image2](epoch1000.jpg)
-
-## example bag after 2000 epochs
-
-![image2](epoch2000.jpg)
 
 
 ## Credits
