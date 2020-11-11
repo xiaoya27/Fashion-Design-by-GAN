@@ -1,4 +1,4 @@
-# w-GAN
+# Fashion-Design-by-GAN
 
 ## Overview
 I will use a WGAN to create new kinds of bag image. 
